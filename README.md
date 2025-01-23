@@ -1,6 +1,6 @@
 # Hack Your Future
 
-A coding website focused on providing education and career opportunities to
+A website focused on providing education and career opportunities to
 individuals with limited access to both.
 
 ## Table of contents

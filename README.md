@@ -1,10 +1,11 @@
-# Name of project
+# Hack Your Future
 
-> A longer description
+A website focused on providing education and career opportunities to
+individuals with limited access to both.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack Your Future](#hack-your-future)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)

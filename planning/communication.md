@@ -2,25 +2,29 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Responding in maximum 30 minutes.
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day    | How  | The topic of discussion         |
+| ------ | ---- | ------------------------------- |
+| Friday | Zoom | Project planning and developing |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: As needed – To discuss bugs, new features, and technical
+  requirements.
+- **Pull Requests**: When creating or reviewing code – For feedback and merging.
+- **GitHub Discussions**: Weekly or as needed – To discuss general ideas and
+  proposals.
+- **Slack/Discord**: Daily – For quick communication and resolving immediate
+  issues.
+- **Video Calls**: As needed – To clarify critical points or discuss complex
+  topics.
 
 ---
 
@@ -28,24 +32,25 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day         | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ----------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| _Emilia_    | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |  9 - 17  | 9 - 17 |
+| _Semen_     | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |  9 - 17  | 9 - 17 |
+| _Viktoriia_ | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |  9 - 17  | 9 - 17 |
+| _Abrash_    | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |  9 - 17  | 9 - 17 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Emilia: _7h_;
+- Semen: _7h_;
+- Viktoriia: _7h_;
+- Abrash: _7h_;
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+Here is a general guide for when to ask for help based on how long you've been
+stuck on the same problem:
 
-1. _0 -> 30 min_: Try on your own
-2. _30 -> 60 min_: Ask your group for help
-3. _60+ min_: Tag your coaches in Slack or GitHub
+1. _0 -> 15 min_: Try on your own
+2. _15 -> 30 min_: Ask your group for help
+3. _30+ min_: Tag your coaches in Slack or GitHub

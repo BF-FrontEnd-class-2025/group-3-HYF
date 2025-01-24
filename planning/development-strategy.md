@@ -1,4 +1,4 @@
-# Project Name
+# Hack Your Future Canada
 
 <!-- describe your project -->
 
@@ -6,50 +6,111 @@
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Creating repo from the
+  [template](https://github.com/HackYourFutureBelgium/template-html-css)
+- Adding collaborators
+- Protecting the `main` branch
+- Turning on github pages
+- Turning on `discussions`
+- Cloning the repo
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## Announcement bar
 
-## user story
+This feature was developed on the branch `announcement`
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### HTML
 
-> "as a ... i can ... so that ..."
+- add `div` tag with `announcement-bar` tag
 
-<!-- write any extra notes or description -->
+### CSS
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- style `announcement-bar` tag with `opacity`
 
-### Logic: user story
+## Navbar
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+This feature was developed on the branch `navbar`
 
-### Interface: user story
+### HTML
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add `div` tag with `nav-bar container` tag
 
-### Interaction: user story
+### CSS
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- style the `nav-bar container` tag with `opacity`
 
-### Documentation: user story
+## Intro
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+This feature was developed on the branch `intro`
+
+### HTML
+
+- add `div` tag with `hero-box` class
+
+### CSS
+
+- style `hero-box` class with `box-sizing`, `block display` and
+  `relative position`
+
+## Stats
+
+This feature was developed on the branch `stats`
+
+### HTML
+
+- add `div` tag with `contact bg-light-gray` class
+
+### CSS
+
+- style the `contact bg-light-gray` class with `background color` and
+  `relative position`
+
+## Program
+
+This feature was developed on the branch `program`
+
+### HTML
+
+- add the `div` tag with `link-with-arrow` class
+
+### CSS
+
+- style the `link-with-arrow` class with `background color` and `open sauce one`
+  font
+
+## About
+
+This feature was developed on the branch `about`
+
+### HTML
+
+- add the `div` tag with `text-block` class
+
+### CSS
+
+- style the `text-block` class with `background color` and `block display`
+
+## Companies
+
+This feature was developed on the branch `companies`
+
+### HTML
+
+- add `div` tag with `text-block` class
+
+### CSS
+
+- style the `text-block` class with `border`, `color`, and `opacity`
+
+## Footer
+
+This feature was developed on the branch `footer`
+
+### HTML
+
+- add `div` tag with `footer-black` class
+
+### CSS
+
+- style the `footer-black` class with `black` background color

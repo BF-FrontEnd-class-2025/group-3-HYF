@@ -1,7 +1,10 @@
 # Hack Your Future
 
-A website focused on providing education and career opportunities to
-individuals with limited access to both.
+Hack Your Future is a non-profit organization that provides web development and
+software testing training for people with refugee backgrounds. The program helps
+students build skills through a structured curriculum and connects them with
+partner companies for internships and job opportunities, promoting inclusion in
+the tech industry.
 
 ## Table of contents
 
@@ -10,11 +13,8 @@ individuals with limited access to both.
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
-  - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
@@ -23,7 +23,7 @@ individuals with limited access to both.
 
 ## General info
 
-> A short description
+> Non-profit organization that provides web development
 
 ## Screenshots
 
@@ -31,47 +31,48 @@ individuals with limited access to both.
 
 ## Technologies
 
-- Node 14.16.0
+- Node v20.17.0
 - VSC code
-- JavaScript
-- ...
-- ...
-
-## Setup
-
-- `npm run start`
+- HTML
+- CSS
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```</div>
+    <div class="section-large bg-dark">
+      <div class="main-container">
+        <div class="w-layout-grid grid-halves-2 cta-grids">
+          <div id="w-node-_7d4e2d9c-0673-808d-9777-237fbb1d9eb9-4602e65a" class="div-block-2">
+            <h4 id="w-node-_42547756-ec02-6030-c077-964b8affc923-4602e65a" class="large-heading-2">&lt;BEING&nbsp;A
+              REFUGEE<br>WASN'T&nbsp;THEIR&nbsp;<br>CHOICE&gt;<br>&lt;BECOMING&nbsp;A<br>DEVELOPER&nbsp;WAS&gt;</h4>
+          </div>
+          <div id="w-node-_55736706-7341-5a6c-3164-f2984e8b1134-4602e65a" class="div-block">
+            <p class="text-block-3 center">Six years ago, HackYourFuture was founded to tackle the challenging
+              un(der)employment of people with a refugee background, while addressing the ever-growing demand for tech
+              talent. We have helped over 300 of our graduates in the Netherlands, and over 600 worldwide, into
+              meaningful, high-quality jobs.</p>
+            <div class="button-pair"><a href="/about" class="button large bg-white w-inline-block">
+                <div class="text-block-6">About us</div>
+              </a><a href="/donate" class="link-with-arrow beside-button w-inline-block">
+                <div class="uppercase-white text-white">SUPPORT&nbsp;OUR&nbsp;MISSION</div><img
+                  src="https://cdn.prod.website-files.com/62745a1007e49e2461fb7ecd/62745a1007e49e47d2fb7f1c_icon-arrow-right.svg"
+                  loading="lazy" alt="" class="link-arrow invert-color">
+              </a></div>
+          </div>
 ```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
 
 ## Status
 
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
+Project is: _completed_
 
 ## Contact
 
-By [Name]
+By
+
+- [Emilia](https://github.com/emilia-12)
+- [Semen](https://github.com/bynd1u)
+- [Viktoriia](https://github.com/ViktoriiaMessi)
+- [Mohammed](https://github.com/Mohammed-ABR)
 
 ## Instructions for use
 

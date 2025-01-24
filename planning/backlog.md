@@ -9,24 +9,28 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a user, I want to see the name and logo of the site (header) so I can
-      immediately understand where I am.
-- [ ] As a user, I want to quickly find the sections of the site I need
-      (navigation bar) so I don’t waste time searching for information.
-- [ ] As a user, I want to immediately understand the goal and mission of the
-      project (mission banner) so I can decide if it is right for me.
-- [ ] As a user, I want to know the details of the program (program description)
-      so I can understand what I can learn.
-- [ ] As a user, I want to see real results of the program (success statistic)
-      so I can be sure of its effectiveness.
-- [ ] As a user, I want to clearly understand the steps for applying (how to
-      apply) so I can successfully register.
-- [ ] As a user, I want to learn more about the project team (about us section)
-      so I can be sure of their professionalism.
-- [ ] As a user, I want to be able to contact the project to ask questions
-      (contacts) or clarify details.
-- [ ] As a user, I want to find additional links and information (footer) so I
-      can learn more or go to the project’s social networks.
+- [ ] As a user, I want to see key announcements at the top of the page
+  so that I stay informed about important updates or events.
+
+- [ ] As a user, I want a clear navigation bar to easily find sections
+  like "Program," "About,", "How to Apply", etc.
+
+- [ ] As a user, I want a brief introduction to Hack Your Future’s mission
+  to quickly understand its goals and impact.
+
+- [ ] As a user, I want to see success statistics to evaluate the program's
+  impact and effectiveness.
+  
+- [ ]  As a user, I want to read about the program to decide if it fits my needs.
+  
+- [ ] As a user, I want to read about the organization’s history and
+  mission to understand its purpose and values.
+
+- [ ] As a user, I want to learn about partner companies to explore internship
+  or job opportunities after completing the program.
+
+- [ ] As a user, I want to access contact details and links to social media
+  for further engagement or inquiries.
 
 ## Should-Haves
 

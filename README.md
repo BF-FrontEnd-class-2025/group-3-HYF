@@ -38,7 +38,7 @@ the tech industry.
 
 ## Code Examples
 
-```</div>
+```html
     <div class="section-large bg-dark">
       <div class="main-container">
         <div class="w-layout-grid grid-halves-2 cta-grids">
